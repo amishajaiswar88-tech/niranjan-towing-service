@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home Page -->
+  <url>
+    <loc>https://amishajaiswar88-tech.github.io/niranjan-towing-service/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- About Section -->
+  <url>
+    <loc>https://amishajaiswar88-tech.github.io/niranjan-towing-service/#about</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Services Section -->
+  <url>
+    <loc>https://amishajaiswar88-tech.github.io/niranjan-towing-service/#services</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contact Section -->
+  <url>
+    <loc>https://amishajaiswar88-tech.github.io/niranjan-towing-service/#contact</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contact Numbers -->
+  <!-- Mobile: 9930835440, 9920651494 -->
+
+</urlset>
